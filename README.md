@@ -1,3 +1,3 @@
-# SoS
+# Summer of Science - Artificial Intelligence
 
-I completed a project on "Artificial Intelligence", under Summer of Science conducted by the Maths & Physics Club, IIT Bombay
+This repository contains the report for the Summer of Science project on Artificial Intelligence that I completed under the Maths & Physics Club, IIT Bombay.
